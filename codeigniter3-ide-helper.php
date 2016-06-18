@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @package	CodeIgniter
  * @author	leohu <alpha1130@gmail.com>
  * @since	2016-06-18 22:44
- * @version 1.0.1
+ * @version 1.0.2
  */
 
 /**
