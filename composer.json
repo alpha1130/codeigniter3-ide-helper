@@ -1,0 +1,17 @@
+{
+  "name": "alpha1130/codeigniter3-ide-helper",
+  "description": "codeigniter 3.0.x ide helper",
+  "type": "library",
+  "keywords": ["codeigniter", "ide", "helper"],
+  "license": "MIT",
+  "version": "1.0.0",
+  "require": {
+    "ellislab/codeigniter": "^3.0"
+  }
+  "authors": [
+    {
+      "name": "leohu",
+      "email": "alpha1130@gmail.com"
+    }
+  ]
+}
