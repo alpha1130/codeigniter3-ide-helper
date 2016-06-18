@@ -5,9 +5,6 @@
   "keywords": ["codeigniter", "ide", "helper"],
   "license": "MIT",
   "version": "1.0.0",
-  "require": {
-    "ellislab/codeigniter": "^3.0"
-  }
   "authors": [
     {
       "name": "leohu",
